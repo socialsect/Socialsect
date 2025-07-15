@@ -1,69 +1,67 @@
-# 👋 Welcome to Socialsect's GitHub
+Welcome to Socialsect's GitHub
+We build what others pitch.
+Hi, we're Socialsect — a performance-first digital agency focused on clean development and AI-powered marketing. From high-conversion landing pages to scalable frontends and optimized WordPress builds, we help brands move fast, grow smarter, and deliver results.
 
-**We build what others pitch.**  
-Hi, we're **Socialsect** — a performance-first digital agency combining clean development with AI-powered marketing. Whether it's launching high-conversion landing pages, optimizing WordPress systems, or engineering scalable frontends, our goal is always the same: **Ship fast. Scale smart. Deliver ROI.**
+What We Do
+We specialize in full-stack development and growth marketing across:
 
----
+High-performance landing pages (React, Next.js, WordPress)
 
-## 🛠️ What We Do
+Scalable business websites (mobile-first, SEO-ready, fast)
 
-We specialize in full-stack development + growth execution across:
+Custom WordPress themes and plugins
 
-- 🎯 **Landing Pages** (React, Next.js, WordPress)
-- 🏗 **Business Websites** (SEO-ready, mobile-first, fast)
-- ⚙️ **Custom WordPress Themes & Plugins**
-- 📈 **Marketing Tech** (Meta Pixel, Tag Manager, CRM setup)
-- 🧠 **AI-Integrated Workflows** (content, CRM, automation)
-- 🧪 **Performance Optimization** (Lighthouse, Web Vitals, security)
+Marketing tech setups (CRM integrations, Meta Pixel, Tag Manager)
 
----
+AI-integrated workflows (content, automation, lead tracking)
 
-## 🚀 Live Client Use Cases
+Performance optimization (Core Web Vitals, Lighthouse, security)
 
-Here’s how we help businesses grow:
+Client Use Cases
+A few ways we’ve helped clients grow:
 
-- **Real Estate**: Built fast-loading, IDX-enabled websites that close leads at scale.
-- **MedSpas**: $100K+ revenue generated with CPL <$5 through full-funnel pages.
-- **SaaS**: Semantic HTML + SEO-hardened UI for enterprise AI platforms.
-- **Ecommerce**: Custom Shopify and WordPress storefronts with pixel-perfect design and ad tracking setup.
+Real Estate: IDX-integrated websites optimized for speed and lead generation
 
-> **Stack We Love**:  
-> `HTML` · `CSS` · `JS` · `React` · `Next.js` · `PHP` · `WordPress` · `Elementor` · `Tailwind` · `GSAP` · `Vercel` · `Cloudflare`
+MedSpas: Generated $100K+ in revenue with under-$5 CPL full-funnel builds
 
----
+SaaS: Engineered semantic, SEO-first UIs for enterprise-grade platforms
 
-## 🔍 Why Clients Choose Us
+Ecommerce: Custom storefronts with complete ad tracking and analytics
 
-- ✅ **Operator Mindset** – We think in ROI, not just code.
-- 🧩 **Flexible Team** – Contract top-tier devs, designers & ad strategists as needed.
-- 🧪 **Data-Driven Approach** – Analytics, split tests, and constant iteration.
-- 💬 **Clear Communication** – Structured workflows, documented changes, and staging-to-live handovers.
+Our core tech stack includes:
+HTML, CSS, JavaScript, React, Next.js, PHP, WordPress, Elementor, Tailwind, GSAP, Vercel, Cloudflare
 
----
+Why Clients Choose Us
+ROI-first thinking — we care about business results, not just clean code
 
-## 💼 Work With Us
+On-demand access to vetted developers, designers, and strategists
 
-We’re available for:
+Iterative, data-backed approach using real analytics and testing
 
-- ✔️ Web development (frontend/back)
-- ✔️ Landing page builds
-- ✔️ WordPress optimization
-- ✔️ Custom client dashboards
-- ✔️ SEO + technical audits
+Clear communication and transparent development handovers
 
-📩 Shoot us a message or visit [gosocialsect.com](https://www.gosocialsect.com)
+How You Can Work With Us
+We're available for:
 
----
+Full-stack development projects
 
-## 📊 Want Proof?
+High-conversion landing pages
 
-Check our GitHub Projects & Code Repositories — we're actively publishing:
+WordPress speed and SEO optimization
 
-- ✅ High-performance starter themes
-- ✅ Custom landing page templates
-- ✅ Tools for agencies: audit kits, proposal generators, more
+Custom internal dashboards and tools
 
----
+Technical audits and site overhauls
 
-> _Built by [Rayansh](https://www.linkedin.com/in/rayansh-singh/) — Founder of Socialsect.  
-> Let's build something that actually works._
+Reach out via gosocialsect.com
+
+See What We're Shipping
+Explore our GitHub for:
+
+Starter themes and frameworks
+
+Landing page templates
+
+Agency-focused tools (proposal kits, audits, scripts)
+
+Built by Rayansh Singh — Founder, Socialsect.
